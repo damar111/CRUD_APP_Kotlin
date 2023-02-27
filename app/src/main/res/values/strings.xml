@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRUD_Apps_Damar_XIIRPL</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_Profile">Profile</string>
+    <string name="title_Setting">Setting</string>
+</resources>
